@@ -6,7 +6,7 @@ public class deneme {
 
         System.out.println("Merhaba Dünya");
 
-        // yeni
+        // yen
 
     }
 }
