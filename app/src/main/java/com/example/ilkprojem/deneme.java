@@ -7,6 +7,8 @@ public class deneme {
         System.out.println("Merhaba Dünya");
 
         // değişikliler kaydedildi.
+        // yeni değişikler eklendi.
+        // nnnnnn
 
     }
 }
